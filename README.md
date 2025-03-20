@@ -4,12 +4,12 @@ Welcome to the **ShaikNizam-IT** repository! This repository contains a collecti
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview]
+- [Technologies Used]
+- [Installation]
+- [Usage]
+- [Contributing]
+- [License]
 
 ## Overview
 
